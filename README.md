@@ -12,6 +12,8 @@ Loud and proud alumni of [Texas A&M University](https://www.tamu.edu/), where I 
 
 
 ### What I'm listening to 🎧
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=imatson9119&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=imatson9119&redirect=true)
+
 (Seriously - check out these tunes)
 - [Like The Weekend - Stephen Day](https://open.spotify.com/track/1MgLsGWLuv1TDmKt2VTQbU?si=7cc1dbef2410442e)
 - [About You - John Mark Nelson](https://open.spotify.com/track/2cSRV9TqkAlA5Gi6LpD0v0?si=4649ba9ab4064ca4)
