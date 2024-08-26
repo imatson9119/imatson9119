@@ -12,11 +12,11 @@ Loud and proud alumni of [Texas A&M University](https://www.tamu.edu/), where I 
 
 
 ### What I'm listening to 🎧
-<div style="display:flex;align-items:center;justify-content:center;">
+<p style="display:flex;justify-content:center;">
   <a href='https://spotify-github-profile.kittinanx.com/api/view?uid=imatson9119&redirect=true'>
     <img src='https://spotify-github-profile.kittinanx.com/api/view?uid=imatson9119&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false'>
   </a>
-</div>
+</p>
 
 Other Recommendations:
 
