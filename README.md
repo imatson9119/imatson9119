@@ -1,3 +1,4 @@
+<script async src="https://api.countapi.xyz/hit/imatson9119/visits"></script>
 ## Howdy 👋🤠🧗🏼🏊🏻‍♂️☕️🎹📚
 
 My name is Ian Matson, and I'm a software engineer with a potentially unnatural desire to solve problems and hopefully learn something new along the way. I'm currently working in the AI labs at [Capital One](https://www.capitalone.com/) as a software engineer II, where I'm currently building a RAG-based agent assistance platform. 
