@@ -5,7 +5,7 @@ My name is Ian Matson, and I'm a software engineer with a potentially unnatural 
 Loud and proud alumni of [Texas A&M University](https://www.tamu.edu/), where I graduated with a degree in Computer Science.
 
 ### What I'm working on 👨‍💻
-- 📖 PeriCopy ([gh](https://github.com/imatson9119/pericopy), [web](https://www.pericopy.net): a diff-based Bible memorization tool
+- 📖 PeriCopy ([gh](https://github.com/imatson9119/pericopy), [web](https://www.pericopy.net)): a diff-based Bible memorization tool
 - 🤖 RAG-based Agent Assistance: current project at Cap 1
 - 💡 [LED-Cube](https://github.com/elliotmatson/LED_Cube): A C-based LED matrix designed to sit on my desk and make people waste time
 - 🍽 Dinner Club ([gh](https://github.com/imatson9119/dinner-club), [web](https://dinner-club.org)): An interactive puzzle-based website to prevent my friends from RSVPing to a fancy dinner I'm hosting.
