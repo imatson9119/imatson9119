@@ -9,7 +9,7 @@ Loud and proud alumni of [Texas A&M University](https://www.tamu.edu/), where I 
 - 🤖 RAG-based Agent Assistance: current project at Cap 1
 - 💡 [LED-Cube](https://github.com/elliotmatson/LED_Cube): A C-based LED matrix designed to sit on my desk and make people waste time
 - 🍽 Dinner Club ([gh](https://github.com/imatson9119/dinner-club), [web](https://dinner-club.org)): An interactive puzzle-based website to prevent my friends from RSVPing to a fancy dinner I'm hosting.
-- Personal Website ([gh](https://github.com/imatson9119/personal-website) [web](https://ian-matson.com/)): A personal website to showcase my portfolio
+- 🌐 Personal Website ([gh](https://github.com/imatson9119/personal-website) [web](https://ian-matson.com/)): A personal website to showcase my portfolio
 
 
 ### What I'm listening to 🎧
