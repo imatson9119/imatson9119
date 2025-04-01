@@ -1,6 +1,6 @@
 ## Howdy 👋🤠🧗🏼🏊🏻‍♂️☕️🎹📚
 
-My name is Ian Matson, and I'm a software engineer with a potentially unnatural desire to solve problems and hopefully learn something new along the way. I'm currently working in the AI labs at [Capital One](https://www.capitalone.com/) as a software engineer II, where I'm currently building a RAG-based agent assistance platform. 
+My name is Ian Matson, and I'm a software engineer with a potentially unnatural desire to solve problems and hopefully learn something new along the way. I'm currently working as a software engineer at Toyota with a bit of freelancing in my spare time.
 
 Loud and proud alumni of [Texas A&M University](https://www.tamu.edu/), where I graduated with a degree in Computer Science.
 
