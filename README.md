@@ -57,9 +57,9 @@ I tend to get most excited about projects that sit somewhere between:
 ### Elsewhere on the internet 🌎
 
 - 🌐 Website: [ian-matson.com](https://ian-matson.com/)
+- 🖊 Blog: [ian-matson.com/blog](https://ian-matson.com/blog)
 - 💼 LinkedIn: [linkedin.com/in/ianmatson](https://www.linkedin.com/in/ianmatson/)
 - 🚀 Cosmonaut: [cosmonaut-ai.com](https://cosmonaut-ai.com)
-- 📬 GitHub: [github.com/imatson9119](https://github.com/imatson9119)
 
 ### What I'm listening to 🎧
 
