@@ -1,14 +1,14 @@
 ## Howdy 👋🤠🧗🏼🏊🏻‍♂️☕️🎹📚
 
-My name is Ian Matson, and I'm a software engineer with a potentially unnatural desire to solve problems and hopefully learn something new along the way. I'm currently working as a software engineer at Toyota with a bit of freelancing in my spare time.
+My name is Ian Matson, and I'm a software engineer with a potentially unnatural desire to solve problems and hopefully learn something new along the way. I'm currently working as at Toyota with a bit of freelancing in my spare time.
 
 Loud and proud alumni of [Texas A&M University](https://www.tamu.edu/), where I graduated with a degree in Computer Science.
 
 ### What I'm working on 👨‍💻
+- 🚀 Cosmonaut AI ([gh](https://github.com/cosmonaut-ai), [web](https://cosmonaut-ai.com), [Android](https://play.google.com/store/apps/details?id=com.cosmonaut.app)): AI-powered custom choose-your-own-adventures. Live narration, branching choice-driven stories, and lineage-scoped world state.
 - 📖 PeriCopy ([gh](https://github.com/imatson9119/pericopy), [web](https://www.pericopy.net)): a diff-based Bible memorization tool
-- 🤖 RAG-based Agent Assistance: current project at Cap 1
 - 💡 [LED-Cube](https://github.com/elliotmatson/LED_Cube): A C-based LED matrix designed to sit on my desk and make people waste time
-- 🍽 Dinner Club ([gh](https://github.com/imatson9119/dinner-club), [web](https://dinner-club.org)): An interactive puzzle-based website to prevent my friends from RSVPing to a fancy dinner I'm hosting.
+- 🍽 Dinner Club ([gh](https://github.com/imatson9119/dinner-club), [web](https://dinner-club.org)): An interactive puzzle-based website to prevent my friends from RSVPing to a fancy dinner I hosted.
 - 🌐 Personal Website ([gh](https://github.com/imatson9119/personal-website) [web](https://ian-matson.com/)): A personal website to showcase my portfolio
 
 
